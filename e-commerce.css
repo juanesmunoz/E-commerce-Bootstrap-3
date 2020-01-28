@@ -1,0 +1,37 @@
+ * {
+    box-sizing: border-box;
+}
+
+.input-group {
+	margin-bottom: 20px;
+}
+
+.slide {
+	margin-bottom: 30px;
+}
+
+.marl {
+	margin-left: 20px;
+}
+
+.mart {
+	padding-top: 10px;
+}
+
+.vcenter {
+    display: inline-block;
+    vertical-align: top;
+    float: none;
+}
+
+.navtm {
+	margin-top: 20px;
+}
+
+.tabtm {
+	margin-top: 10px;
+}
+
+.formmt {
+	margin-top: 10px;
+}
